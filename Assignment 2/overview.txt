@@ -1,0 +1,12 @@
+Assignment#2
+Programming Exercises of the Book:
+
+Chapter05: 2,10,12,14,20,55
+Chapter06: 1,4,5,10,12,18,47,48
+Chapter07: 1,2,3,4
+Chapter08: 1,4,7,11,12,13
+
+Due: April 3rd
+
+
+

@@ -1,0 +1,10 @@
+Assignment#3
+Programming Exercises of the Book:
+
+Chapter10: 2, 3, 9, 10, 12, 13
+Chapter11: 2, 5, 13, 25
+Chapter12: 1, 2, 3 (Ignore chapter 12 for now, until further notice in class)
+Chapter14: 2, 3, 5, 10, 11
+
+
+Assignments are all in the "ch" python files, "10revel" is the assingments I did while following revel
